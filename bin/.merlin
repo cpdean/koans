@@ -1,0 +1,6 @@
+B ../_build/default/bin
+B ../_build/default/what
+FLG -w -40
+PKG bytes
+PKG re
+S ../what

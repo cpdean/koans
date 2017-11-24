@@ -1,0 +1,9 @@
+B ../_build/default/tests
+B ../_build/default/what
+FLG -w -40
+PKG bytes
+PKG oUnit
+PKG oUnit.advanced
+PKG re
+PKG unix
+S ../what
